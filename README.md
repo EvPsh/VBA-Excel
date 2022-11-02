@@ -12,4 +12,6 @@ oExcel.bas - sub oExcel(). Пример, показывающий как отр�
 
 oWord.bas - Private Sub Word_Out(sWord As String, cnt As Integer). Копирование таблицы из excel в Word, с последующим форматированием таблицы.
 
+shNamesOut.bas - Private Sub SheetsNameOut(). Вывод имён листов в новую книгу.
+
 xlsxToxls.bas - Private Sub XlsxToXls(FullName As String). Сохранение файлов из XLSX в формат XLS 97-2003.
