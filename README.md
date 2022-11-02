@@ -2,6 +2,8 @@
 
 delSheets.bas - Sub delSheets(txt as string). Удалить листы по маске. В названии файла должна быть фраза txt.
 
+findInColumn.bas - Sub poisk(). Поиск данных в диапазоне ячеек листа Excel.
+
 getDirs.bas - Function Get_DirS(path As String, Mask As String). Функция выбора в массив файлов по маске, с примером использования.
 
 iColor.bas - Sub intcolor(). Подсчёт значений в 1ом столбце, выделенном жёлтым цветом
