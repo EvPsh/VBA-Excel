@@ -6,6 +6,8 @@ findInColumn.bas - Sub poisk(). Поиск данных в диапазоне я
 
 getDirs.bas - Function Get_DirS(path As String, Mask As String). Функция выбора в массив файлов по маске, с примером использования.
 
+lName.bas - Private Function LName(). Функция переформатирования даты из xx.yy.zzzz в zzzz-yy-xx.
+
 iColor.bas - Sub intcolor(). Подсчёт значений в 1ом столбце, выделенном жёлтым цветом.
 
 minRange.bas - Function minRange(rng As String). Поиск минимума в произвольном диапазоне ячеек.
