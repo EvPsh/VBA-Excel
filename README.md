@@ -1,5 +1,7 @@
 # VBA-Excel
 
+RenameFiles.bas - Sub RenameFiles(). Переименовывание файлов *.doc именами из первого столбца в Excel.
+
 delSheets.bas - Sub delSheets(txt as string). Удалить листы по маске. В названии листа должна быть фраза txt.
 
 findInColumn.bas - Sub poisk(). Поиск данных в диапазоне ячеек листа Excel.
